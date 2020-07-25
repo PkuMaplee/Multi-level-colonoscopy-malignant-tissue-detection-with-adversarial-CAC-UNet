@@ -1,5 +1,5 @@
 # Multi-level-colonoscopy-malignant-tissue-detection-with-adversarial-CAC-UNet
-Implementation detail for paper "Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet"
+Implementation detail for paper ["Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet"](https://arxiv.org/pdf/2006.15954.pdf)
 
 DigestPath 2019
 

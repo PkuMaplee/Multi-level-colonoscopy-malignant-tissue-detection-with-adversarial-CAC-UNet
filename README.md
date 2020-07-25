@@ -1,9 +1,6 @@
 # Multi-level-colonoscopy-malignant-tissue-detection-with-adversarial-CAC-UNet
 Implementation detail for paper "Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet"
 
-## Codes available here:
-https://github.com/Raykoooo/CAC-UNet
-
 ## Citation
 Please cite this paper in your publications if it helps your research:
 
@@ -15,3 +12,10 @@ Please cite this paper in your publications if it helps your research:
   year={2020}
 }
 ```
+
+## Codes available here:
+https://github.com/Raykoooo/CAC-UNet
+
+## Dataset
+Description of dataset can be found here:
+https://digestpath2019.grand-challenge.org/Dataset/

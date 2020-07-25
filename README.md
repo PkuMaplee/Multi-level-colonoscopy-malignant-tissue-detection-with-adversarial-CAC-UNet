@@ -19,3 +19,6 @@ https://github.com/Raykoooo/CAC-UNet
 ## Dataset
 Description of dataset can be found here:
 https://digestpath2019.grand-challenge.org/Dataset/
+
+To download the the DigestPath2019 dataset, please sign the DATABASE USE AGREEMENT first at here:
+https://digestpath2019.grand-challenge.org/Download/

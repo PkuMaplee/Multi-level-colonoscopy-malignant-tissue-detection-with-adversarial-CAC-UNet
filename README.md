@@ -1,6 +1,8 @@
 # Multi-level-colonoscopy-malignant-tissue-detection-with-adversarial-CAC-UNet
 Implementation detail for paper "Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet"
 
+DigestPath 2019
+
 The proposed scheme in this paper achieves the best results in MICCAI DigestPath2019 challenge (https://digestpath2019.grand-challenge.org/Home/) on colonoscopy tissue segmentation and classification task.
 
 ## Citation
